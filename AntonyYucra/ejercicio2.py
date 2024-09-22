@@ -1,3 +1,4 @@
+#ejercicio2
 def verificar_tributacion():
     try:
         edad = int(input("Introduce tu edad: "))
