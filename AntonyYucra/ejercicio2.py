@@ -12,5 +12,4 @@ def verificar_tributacion():
     except ValueError:
         print("Por favor, introduce datos válidos para la edad y los ingresos.")
 
-# Ejecutar la función
 verificar_tributacion()
