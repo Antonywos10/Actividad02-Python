@@ -12,5 +12,4 @@ def calcular_precio_entrada():
     except ValueError:
         print("Por favor, introduce un número válido para la edad.")
 
-
 calcular_precio_entrada()
